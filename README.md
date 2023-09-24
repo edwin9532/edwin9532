@@ -1,4 +1,4 @@
-### Hey! 👋
+### Hey there! 👋
 
 <!--
 **edwin9532/edwin9532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## 🍃 About me
+
+- 📖Undergraduate Physics Student at Universidad Nacional de Colombia.
+- 🔭**Physics interests:** Galactic and extragalactic astrophysics, cosmology, planetary systems, and computational astrophysics.
+- 💻**Programming interests:** Simulation, data analysis and visualization, machine learning, and game development.
+- 📫**Get in touch:** <elaverde@unal.edu.co>
 
 ## 🖥 Languages
 
@@ -63,6 +68,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.pygame.org/" target="_blank">
   <img height="40" src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="pygame">
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+  <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png" title="Arduino">
 </a>
 
 
