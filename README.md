@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! 👋
 
 <!--
 **edwin9532/edwin9532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Statistics
+> ![Top Langs](https://github-readme-stats-orpin-seven-18.vercel.app/api/top-langs/?username=edwin9532&hide=jupyter%20notebook,PureBasic&layout=donut&theme=dracula&langs_count=8)
+<br>
