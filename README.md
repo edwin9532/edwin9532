@@ -80,5 +80,5 @@ Here are some ideas to get you started:
 
 
 ## 📊 Statistics
-> ![Top Langs](https://github-readme-stats-nine-rho-92.vercel.app/api/top-langs/?username=edwin9532&hide=jupyter%20notebook,PureBasic&layout=donut&theme=gotham&langs_count=8&count-private=true&exclude_repo=)
+> ![Top Langs](https://github-readme-stats-nine-rho-92.vercel.app/api/top-langs/?username=edwin9532&hide=jupyter%20notebook,PureBasic,CSS,Tex&layout=donut&theme=gotham&langs_count=8&count-private=true&exclude_repo=)
 <br>
